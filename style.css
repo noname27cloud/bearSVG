@@ -15,6 +15,23 @@ svg {
   width: 100vw;
 }
 
-svg .star:hover {
-  fill: #bcebc9 !important;
+.path:hover,
+.star:hover {
+  fill: #df0000;
+  stroke: #df0000;
+  cursor: pointer;
+}
+
+dialog::backdrop {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+#info {
+  position: absolute;
+  display: none;
+  background: white;
+  border: 1px solid black;
+  padding: 5px;
+  font-size: 14px;
+  padding: 10px;
 }
