@@ -7,7 +7,7 @@ document.querySelectorAll(".star-1").forEach((element) => {
     const status = event.target.getAttribute("status") || "No date";
     const xp = event.target.getAttribute("xp") || "No date";
 
-    info.innerHTML = `<strong>Lesson name:</strong> ${lessonName} </br> <strong>Level:</strong>  ${level} </br> <strong>Status:</strong>  ${status} </br> <strong>XP:</strong>  ${xp}`;
+    info.innerHTML = `<strong>${lessonName}</strong> </br> <strong>Level:</strong>  ${level} </br> <strong>Status:</strong>  ${status} </br> <strong>XP:</strong>  ${xp}`;
     info.style.display = "block";
     info.style.left = event.pageX + 10 + "px";
     info.style.top = event.pageY + 10 + "px";
