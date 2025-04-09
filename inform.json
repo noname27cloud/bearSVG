@@ -1,0 +1,221 @@
+{
+  "information": [
+    {
+      "id": "star-1",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-42"
+    },
+    {
+      "id": "star-2",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-42, path-2"
+    },
+    {
+      "id": "star-3",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-3, path-4"
+    },
+    {
+      "id": "star-4",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-3, path-5"
+    },
+    {
+      "id": "star-5",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-2"
+    },
+    {
+      "id": "star-6",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-2"
+    },
+    {
+      "id": "star-7",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-2"
+    },
+    {
+      "id": "star-8",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-2"
+    },
+    {
+      "id": "star-9",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-2"
+    },
+    {
+      "id": "star-10",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-2"
+    },
+    {
+      "id": "star-11",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-2"
+    },
+    {
+      "id": "star-12",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-2"
+    },
+    {
+      "id": "star-13",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-2"
+    },
+    {
+      "id": "star-14",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-2"
+    },
+
+    {
+      "id": "star-15",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-2"
+    },
+    {
+      "id": "star-16",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-2"
+    },
+    {
+      "id": "star-17",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-2"
+    },
+    {
+      "id": "star-18",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-2"
+    },
+    {
+      "id": "star-19",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-2"
+    },
+    {
+      "id": "star-20",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-2"
+    },
+    {
+      "id": "star-21",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-2"
+    },
+    {
+      "id": "star-22",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-2"
+    },
+    {
+      "id": "star-23",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-2"
+    },
+    {
+      "id": "star-24",
+      "lesson-name": "creditcard",
+      "status": "active",
+      "project-type": "individual",
+      "complexity": "medium",
+      "maxXp": "1200",
+      "star-path": "path-1, path-2"
+    }
+  ]
+}
