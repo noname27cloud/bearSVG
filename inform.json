@@ -25,7 +25,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-3, path-4"
+      "star-path": "path-1, path-2, path-3, path-4"
     },
     {
       "id": "star-4",
@@ -61,7 +61,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-7, path-8, path-16"
+      "star-path": "path-7, path-8, path-17"
     },
     {
       "id": "star-8",

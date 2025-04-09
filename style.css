@@ -39,7 +39,7 @@ dialog::backdrop {
 }
 /* Слабый путь */
 .path-weak {
-  stroke: #cccccc;
+  stroke: #1c9718;
   stroke-width: 2;
   opacity: 0.5;
 }
