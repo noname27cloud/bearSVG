@@ -12,7 +12,7 @@
     {
       "id": "star-2",
       "lesson-name": "creditcard",
-      "status": "active",
+      "status": "inactive",
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",

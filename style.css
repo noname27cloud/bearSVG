@@ -28,11 +28,32 @@ dialog::backdrop {
 
 #info {
   position: absolute;
-  display: none;
-  background: white;
-  border: 1px solid black;
+  border: 1px solid gray;
   padding: 5px;
-  font-size: 14px;
-  padding: 10px;
+  display: none;
+  font-size: small;
+  z-index: 100;
   line-height: 1.5em;
+  backdrop-filter: blur(5px);
+  background: transparent;
+}
+/* Слабый путь */
+.path-weak {
+  stroke: #cccccc;
+  stroke-width: 2;
+  opacity: 0.5;
+}
+
+/* Общий (яркий) путь */
+.path-strong {
+  stroke: #ffd700;
+  stroke-width: 3;
+  opacity: 1;
+}
+
+/* Активная звезда */
+.star-active {
+  fill: #ffcc00;
+  stroke: #ff9900;
+  stroke-width: 2px;
 }
