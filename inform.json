@@ -1,5 +1,5 @@
 {
-  "information": [
+  "starsPath": [
     {
       "id": "star-1",
       "lesson-name": "creditcard",
@@ -34,7 +34,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-3, path-5"
+      "star-path": "path-3, path-5, path-11"
     },
     {
       "id": "star-5",
@@ -43,7 +43,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-1, path-2"
+      "star-path": "path-4, path-6, path-7"
     },
     {
       "id": "star-6",
@@ -52,7 +52,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-1, path-2"
+      "star-path": "path-5, path-6, path-9, path-10, path-14"
     },
     {
       "id": "star-7",
@@ -61,7 +61,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-1, path-2"
+      "star-path": "path-7, path-8, path-16"
     },
     {
       "id": "star-8",
@@ -70,7 +70,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-1, path-2"
+      "star-path": "path-8, path-9, path-15, path-18, path-16"
     },
     {
       "id": "star-9",
@@ -79,7 +79,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-1, path-2"
+      "star-path": "path-17, path-16, path-19, path-20"
     },
     {
       "id": "star-10",
@@ -88,7 +88,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-1, path-2"
+      "star-path": "path-18, path-19, path-21"
     },
     {
       "id": "star-11",
@@ -97,7 +97,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-1, path-2"
+      "star-path": "path-20, path-21"
     },
     {
       "id": "star-12",
@@ -106,7 +106,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-1, path-2"
+      "star-path": "path-10, path-13, path-22, path-23, path-15"
     },
     {
       "id": "star-13",
@@ -115,7 +115,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-1, path-2"
+      "star-path": "path-11, path-14, path-13, path-12"
     },
     {
       "id": "star-14",
@@ -124,9 +124,8 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-1, path-2"
+      "star-path": "path-25, path-26, path-32, path-29, path-27"
     },
-
     {
       "id": "star-15",
       "lesson-name": "creditcard",
@@ -134,7 +133,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-1, path-2"
+      "star-path": "path-12, path-22, path-25, path-24"
     },
     {
       "id": "star-16",
@@ -143,7 +142,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-1, path-2"
+      "star-path": "path-23, path-27, path-28"
     },
     {
       "id": "star-17",
@@ -152,7 +151,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-1, path-2"
+      "star-path": "path-28, path-30, path-36"
     },
     {
       "id": "star-18",
@@ -161,7 +160,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-1, path-2"
+      "star-path": "path-29, path-33, path-34, path-30"
     },
     {
       "id": "star-19",
@@ -170,7 +169,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-1, path-2"
+      "star-path": "path-31, path-32, path-33, path-35"
     },
     {
       "id": "star-20",
@@ -179,7 +178,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-1, path-2"
+      "star-path": "path-24, path-26, path-31"
     },
     {
       "id": "star-21",
@@ -188,7 +187,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-1, path-2"
+      "star-path": "path-35, path-34, path-36, path-37, path-38"
     },
     {
       "id": "star-22",
@@ -197,7 +196,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-1, path-2"
+      "star-path": "path-40, path-41"
     },
     {
       "id": "star-23",
@@ -206,7 +205,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-1, path-2"
+      "star-path": "path-38, path-39, path-40"
     },
     {
       "id": "star-24",
@@ -215,7 +214,7 @@
       "project-type": "individual",
       "complexity": "medium",
       "maxXp": "1200",
-      "star-path": "path-1, path-2"
+      "star-path": "path-37, path-39, path-41"
     }
   ]
 }
